@@ -5,7 +5,7 @@ If you're looking for subject content, some of the following are provided:
 - Lecture Notes
 - Past Exams / MSTs (Crowd-Sourced cohort solutions are also provided for those pesky subjects without exam solutions)
 - Textbooks
-- Assignments (for the CIS subjects only)
+- ~~Assignments (for the CIS subjects only)~~
 
 The handbook for the Data Science major can be [viewed here](https://handbook.unimelb.edu.au/2019/components/b-sci-major-8).
 
