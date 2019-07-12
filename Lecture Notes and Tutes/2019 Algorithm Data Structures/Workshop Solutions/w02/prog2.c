@@ -12,16 +12,24 @@ int main(int argc, char **argv){
     scanf("%d", &numStrings);
     
     /* Allocate space for the array of strings. */
-    *strings = (char**)calloc(numStrings, sizeof(char*));
+    strings = (char**)calloc(numStrings, sizeof(char*));
+    /*
+    Dynamic array which holds a dynamic string -> Use (char**).
+    Then we want the array to have numStrings blocks of size dynamic string -> Use (char*)
+    */
+    assert(strings);
     
     /* For each string, get its length, allocate space for it
         and read all the characters into the string.
         Note: Remember, these are standard strings. */
     for (i = 0; i < numStrings; i++) {
-        scanf("%d", &nextStringLength);
+        scanf("%d ", &nextStringLength); /* Note that you need to specify the space in scanf */
+
         strings[i] = (char*)calloc(nextStringLength + 1, sizeof(char));
+        assert(strings[i]);
+
         for (j = 0; j < nextStringLength; j++) {
-            scanf("%c",strings[i][j]);
+            scanf("%c", &strings[i][j]);
         }
         strings[i][nextStringLength] = '\0';
     }
@@ -38,9 +46,9 @@ int main(int argc, char **argv){
     printf("\n");
 
     for (i = 0; i < numStrings; i++) {
-        free(strings[i])
+        free(strings[i]);
     }
-    free(strings)
+    free(strings);
     
     return 0;
 }
