@@ -1,0 +1,1 @@
+Workshop solutions worked out by myself.
