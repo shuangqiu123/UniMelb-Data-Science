@@ -2,6 +2,7 @@
 #include <stdlib.h>
 #include <assert.h>
 #include <stddef.h>
+#include <stdio.h>
 
 #define WINDOW 2
 
@@ -9,6 +10,7 @@ int *mergeSort(int *list, int size){
     /* FILL IN loop */
     int i, j, sortedIndex;
     int left, right;
+
     int width = 1;
     int *sortedList;
 
@@ -27,13 +29,15 @@ int *mergeSort(int *list, int size){
 
             right = left + width;
             /* Sort until sub-array exahusted */
+
             /* 
             Think of the initial sub-array as list[0] vs list[0 + 1], then list[1] vs list[1 + 1], etc... 
             */
+
             /* While the left and right indicies are less than the size of the full array, and whilst the size of the sub-array is less than our width */
             while (left + i < size && right + j < size && i < width && j < width) {
                 /* Tie-breaker to the left */
-                if (list[left + i] <= list[right + i]) {
+                if (list[left + i] <= list[right + j]) {
                     sortedList[sortedIndex] = list[left + i];
                     i++;
                 }

@@ -4,19 +4,19 @@
 
 struct linkedList *mergeSort(struct linkedList *list){
     /* FILL IN SETUP FOR Linked List BOTTOM-UP mergesort */
-    /* We need a queue for the ll nodes, a pointer to the curr and head nodes, and a new list for the sorted list (since it is not in-place) */
+    /* We need a queue for the linked list nodes, a pointer to the curr and head nodes, and a new list for the sorted list (since it is not in-place) */
     /* Note this is bottom-up mergesort, hence it is NOT recursive */
     struct llq *queue = NULL;
 	struct llq *nextQ = NULL;
     
-	struct linkedList *curr = list; /* Current element from input ll */
+	struct linkedList *curr = list; /* Current element from input linked list */
 	struct linkedList *nextNode = NULL; /* Next element from current */
 
 	struct linkedList *sortedList;
 	struct linkedList *sortedListRear;
 
     /* While linked list, add to queue */
-	while(curr){
+	while(curr) {
 		nextNode = curr->next;
 		curr->next = NULL;
 
@@ -44,14 +44,14 @@ struct linkedList *mergeSort(struct linkedList *list){
         /* Merge sort */
         else {
 			nextNode = dequeue(&queue);
-
+			
 			sortedList = NULL;
 			sortedListRear = NULL;
 
             /* While there are nodes to compare */
 			while(curr && nextNode){
-                /* Tie breaker to the left element, hence it preserves ordering and is stable */
-				if(curr->item <= nextNode->item){
+                /* Tie breaker to the left element, hence it preserves ordering and as a result, a stable Merge Sort */
+				if(curr->item <= nextNode->item) {
                     /* Initialize sorted list if it is empty */
 					if(!sortedList) {
 						sortedList = curr;
