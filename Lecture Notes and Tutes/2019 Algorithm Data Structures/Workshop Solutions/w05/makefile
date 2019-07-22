@@ -6,7 +6,7 @@ main.o: main.c $(HEADERS)
 	gcc -c main.c -o main.o
 
 main: main.o
-	gcc main.o hashT.c -o hash
+	gcc main.o hashT.c -o hash $(CFLAGS)
 
 clean:
 	-rm -f main.o
