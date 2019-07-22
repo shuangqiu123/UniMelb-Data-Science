@@ -5,7 +5,7 @@ If you're looking for subject content, some of the following are provided:
 - Lecture Notes
 - Past Exams / MSTs (Crowd-Sourced cohort solutions are also provided for those pesky subjects without exam solutions)
 - Textbooks
-- ~~Assignments (for the CIS subjects only)~~
+- Assignments (for the CIS subjects only)
 
 The handbook for the Data Science major can be [viewed here](https://handbook.unimelb.edu.au/2019/components/b-sci-major-8).
 
@@ -106,7 +106,7 @@ There's a lot more maths than you think (the major shares the same core maths as
 - The usual lecturer is great, given that the maths is not a pre-req (at least tries to make it interesting). However, he was sick for a vast majority of the time we took the subject so my experience may be a bit more biased to the worse side.
 - A lot of content was attempted to be covered and felt a bit too ambitious given that the maths was not pre-req.
 - First assignment is a joke if you have done maths, but the second is a **lot more** interesting.
-- Quoting my tutor: _"this subject is a money grabber because no one would take this subject if Probability was an actual pre-req".
+- Quoting my tutor: _"this subject is a money grabber because no one would take this subject if Probability was an actual pre-req"._
 - Tim Baldwin got us good for Exam Section D
 
 **Maths Subjects**:
