@@ -17,7 +17,7 @@ If ya liked this guide / repository, leave a cheeky Star ;)
 
 ## About Me
 - I'm currently a 3rd year undergrad majoring in Data Science.
-- Lab demonstrator for Foundations of Computing (COMP10001) and Algorithm & Data Structures (COMP20003).
+- Tutor for Foundations of Computing (COMP10001) and Demonstrator for Algorithm & Data Structures (COMP20003).
 - Former Spatial Data Analyst Intern at UniMelb Infrastructure Services.
 - To-be graduate Business Analyst at DXC Technology for 2020.
 
