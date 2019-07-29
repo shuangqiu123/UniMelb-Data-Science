@@ -4,16 +4,18 @@ Hi, this repository is created to give a taste of what the UniMelb Data Science 
 If you're looking for subject content, some of the following are provided:
 - Lecture Notes
 - Past Exams / MSTs (Crowd-Sourced cohort solutions are also provided for those pesky subjects without exam solutions)
-- Textbooks
+- Textbooks (for a couple subjects)
 - Assignments (for the CIS subjects only)
+- LaTeX notes for third year subjects
+- My old tutoring material 
 
 The handbook for the Data Science major can be [viewed here](https://handbook.unimelb.edu.au/2019/components/b-sci-major-8).
 
-If you're from COMP20003 (or possibly COMP10002), refer to [this guide](https://github.com/akiratwang/COMP20003-Setting-Up) for setting up your Windows device for C.
+If you're from COMP20003 (or possibly COMP10002/COMP20005), refer to [this guide](https://github.com/akiratwang/COMP20003-Setting-Up) for setting up your Windows device for C.
 
-For a (very very) neat timetable planner for university, visit Rohyl's [lookahead](https://lookahead.rohyl.io/). It even has a neat interface :) 
+- For a (very very) neat timetable planner for university, visit Rohyl's [lookahead](https://lookahead.rohyl.io/). It even has a neat interface :) 
 
-If ya liked this guide / repository, leave a cheeky Star ;)
+- If ya liked this guide / repository, leave a cheeky Star ;)
 
 ## About Me
 - I'm currently a 3rd year undergrad majoring in Data Science.
