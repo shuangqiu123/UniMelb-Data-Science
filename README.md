@@ -34,7 +34,7 @@ If you're from COMP20003 (or possibly COMP10002/COMP20005), refer to [this guide
 ### CIS Electives:
 - Algorithm Data Structures (COMP20003)
 - Artificial Intelligence (COMP30024)
-- Declarative Programming (COMP30020)
+- Information Security and Privacy (INFO30006)
 
 ### Core Math Subjects:
 There's a lot more maths than you think (the major shares the same core maths as Actuarial Science up to second year), and so I highly recommend you take either AM1 / AM2 or Real Analysis, or Probability will be a hard leap.
