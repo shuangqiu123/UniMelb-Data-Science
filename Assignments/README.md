@@ -30,3 +30,6 @@ Artificial Intellgience (COMP30024) SEMESTER 1:
 Machine Learning (COMP30027) SEMESTER 1:
 - Assignment 1 (20/20)
 - Assignment 2 (19/20)
+
+Applied Data Science (MAST30034) SEMESTER 2 - Capstone Project:
+- Individual Assignment 1 [Visualization] (99/100)
