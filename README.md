@@ -9,6 +9,8 @@ If you're looking for subject content, some of the following are provided:
 - LaTeX notes for third year subjects
 - My old tutoring material 
 
+**The assignments here are meant to be a reference for what you can expect from the subject. If you decide to "borrow" ideas from here (and all other public sources), you will be picked up for plagiarism. You have also been extensively warned at the beginning of each semester.**
+
 The handbook for the Data Science major can be [viewed here](https://handbook.unimelb.edu.au/2019/components/b-sci-major-8).
 
 If you're from COMP20003 (or possibly COMP10002/COMP20005), refer to [this guide](https://github.com/akiratwang/COMP20003-Setting-Up) for setting up your Windows device for C.

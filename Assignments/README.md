@@ -31,5 +31,12 @@ Machine Learning (COMP30027) SEMESTER 1:
 - Assignment 1 (20/20)
 - Assignment 2 (19/20)
 
-Applied Data Science (MAST30034) SEMESTER 2 - Capstone Project:
-- Individual Assignment 1 [Visualization] (99/100)
+Information Security and Privacy (INFO30006) SEMESTER 2:
+- Assignment 1 (10/10)
+- Assignment 2 (TBA)
+
+Applied Data Science (MAST30034) SEMESTER 2:
+*Capstone Project*
+- Phase 1: Visualization (99/100)
+- Phase 2: Statistical Analysis (TBA)
+- Phase 3 (Group): Predictive Modelling and Applied Data Science (TBA)
