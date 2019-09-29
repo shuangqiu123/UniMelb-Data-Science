@@ -38,5 +38,5 @@ Information Security and Privacy (INFO30006) SEMESTER 2:
 Applied Data Science (MAST30034) SEMESTER 2:
 *Capstone Project*
 - Phase 1: Visualization (99/100)
-- Phase 2: Statistical Analysis (TBA)
+- Phase 2: Statistical Analysis (98/100)
 - Phase 3 (Group): Predictive Modelling and Applied Data Science (TBA)
