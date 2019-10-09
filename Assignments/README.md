@@ -1,3 +1,5 @@
+**The assignments here are meant to be a reference for what you can expect from the subject. If you decide to "borrow" ideas from here (and all other public sources), you will be picked up for plagiarism. You have also been extensively warned at the beginning of each semester.**
+
 Assignments Overview (Results)
 =======
 Foundations of Computing (COMP10001) SEMESTER 2:
