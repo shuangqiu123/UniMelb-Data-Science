@@ -92,10 +92,11 @@ There's a lot more maths than you think (the major shares the same core maths as
 **Algorithm Data Structures**:
 - By far the best 2nd year CIS subject ever (better alternative to Design of Algorithms)
 - Goes through all the great algorithms, _including_ path-finding algorithms (unlike DoA which covers hashing and compression instead)
+  - For example, the second assignment is usually on path finding and very basic artificial intelligence implementations to solve a `15 puzzle` or to even play `pacman`!
 - Assignments are great fun, and after FoA you should (hopefully) be experienced enough in C to appreciate it.
 - If you're rusty on C don't worry, first few lectures is revision (we recover `malloc` as well for eng comp kids8)
 - The 2018 Exam question about electrical outages landed me a Graduate offer at EssentialEnergy (ayyyy)
-- If you took Engineering Computation instead of FoA, you're going to suffer a lot...
+- **I highly recommend this subject over Design of Algorithms if you prefer applications of algorithms over the theory!**
 
 **Artificial Intelligence**:
 - First third of the lectures are review of basic search algorithms (ADS students will find it a breeze).
@@ -105,13 +106,18 @@ There's a lot more maths than you think (the major shares the same core maths as
 - Notation for Probability (YES PROB IS IN THE SUBJECT) uses logical AND/OR/NOT, so you have been warned.
 - Do yourself a favor and take the subject!!!!
 
-**Machine Learning:**:
+**Machine Learning:**
 - Subject has no maths pre-req, but they did try to attempt to cover "Linear Statistical Models" in 1 lecture.
 - The usual lecturer is great, given that the maths is not a pre-req (at least tries to make it interesting). However, he was sick for a vast majority of the time we took the subject so my experience may be a bit more biased to the worse side.
 - A lot of content was attempted to be covered and felt a bit too ambitious given that the maths was not pre-req.
 - First assignment is a joke if you have done maths, but the second is a **lot more** interesting.
 - Quoting my tutor: _"this subject is a money grabber because no one would take this subject if Probability was an actual pre-req"._
 - Tim Baldwin got us good for Exam Section D
+
+**Applied Data Science (Capstone Project):**
+- Very chill subject and an overall great learning experience
+- Project is very fun and enjoyable if you love applying different techniques you've learnt over the previous subjects
+- Group project is very dependent on how good your team works together, so find peers that have a similar work ethic as you!
 
 **Maths Subjects**:
 - They're all well run
