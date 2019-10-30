@@ -115,9 +115,11 @@ There's a lot more maths than you think (the major shares the same core maths as
 - Tim Baldwin got us good for Exam Section D
 
 **Applied Data Science (Capstone Project):**
-- Very chill subject and an overall great learning experience
+- A very informative subject to make an overall great learning experience
 - Project is very fun and enjoyable if you love applying different techniques you've learnt over the previous subjects
+- Specifically, we had to create a game playing agent to act as a Taxi driver using real world data.
 - Group project is very dependent on how good your team works together, so find peers that have a similar work ethic as you!
+- **UPDATE: Professor Rao Kotagiri will be the new lecturer!**
 
 **Maths Subjects**:
 - They're all well run
