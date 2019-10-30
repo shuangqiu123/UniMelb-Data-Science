@@ -37,6 +37,12 @@ Information Security and Privacy (INFO30006) SEMESTER 2:
 - Assignment 1 (10/10)
 - Assignment 2 (TBA)
 
+Modern Applied Statistics (MAST30027) SEMESTER 2:
+- Assignment 1 (30/30)
+- Assignment 2 (30/30)
+- Assignment 3 (30/30)
+- Assignment 4 (TBA)
+
 Applied Data Science (MAST30034) SEMESTER 2:
 *Capstone Project*
 - Phase 1: Visualization (99/100)
