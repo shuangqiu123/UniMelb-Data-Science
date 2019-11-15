@@ -43,8 +43,11 @@ Modern Applied Statistics (MAST30027) SEMESTER 2:
 - Assignment 3 (30/30)
 - Assignment 4 (TBA)
 
-Applied Data Science (MAST30034) SEMESTER 2:
-*Capstone Project*
-- Phase 1: Visualization (99/100)
-- Phase 2: Statistical Analysis (98/100)
-- Phase 3 (Group): Predictive Modelling and Applied Data Science (TBA)
+**Capstone Project** Applied Data Science (MAST30034) SEMESTER 2:
+- Phase 1 (20%): Visualization (99/100)
+- Phase 2 (20%): Statistical Analysis (98/100)
+- Phase 3 (Group Project - 50%): 
+  - Report (30%): 88/100
+  - Presentation (12%): 11.66/12
+  - Cohort Ranking (8%): 7/8
+  - Self Reflection (10%): TBA
