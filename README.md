@@ -15,15 +15,16 @@ The handbook for the Data Science major can be [viewed here](https://handbook.un
 
 If you're from COMP20003 (or possibly COMP10002/COMP20005), refer to [this guide](https://github.com/akiratwang/COMP20003-Setting-Up) for setting up your Windows device for C.
 
-- For a (very very) neat timetable planner for university, visit Rohyl's [lookahead](https://lookahead.rohyl.io/). It even has a neat interface :) 
+- For a (very very) neat timetable planner for university, visit Rohyl's [lookahead](https://lookahead.rohyl.io/) which has the cleanest interface ever
 
-- If ya liked this guide / repository, leave a cheeky Star ;)
+- If ya liked this guide / repository, please leave a cheeky star :~)
 
 ## About Me
 - I'm currently a 3rd year undergrad majoring in Data Science.
 - Tutor for Foundations of Computing (COMP10001) and Demonstrator for Algorithm & Data Structures (COMP20003).
 - Former Spatial Data Analyst Intern at UniMelb Infrastructure Services.
 - To-be graduate Business Analyst at DXC Technology for 2020.
+- I'll also be back to tutor Applied Data Science next year if the times work out well, so feel free to hit me up with questions and what not.
 
 ## Data Science Major Subjects
 ### Core Computing & Information Systems (CIS) Subjects:
