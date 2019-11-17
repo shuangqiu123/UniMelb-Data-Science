@@ -34,20 +34,21 @@ Machine Learning (COMP30027) SEMESTER 1:
 - Assignment 2 (19/20)
 
 Information Security and Privacy (INFO30006) SEMESTER 2:
-- Assignment 1 (10/10)
-- Assignment 2 (TBA)
+- Assignment 1 (9/10)
+- Assignment 2 (24/30)
 
 Modern Applied Statistics (MAST30027) SEMESTER 2:
 - Assignment 1 (30/30)
 - Assignment 2 (30/30)
 - Assignment 3 (30/30)
-- Assignment 4 (TBA)
+- Assignment 4 (30/30)
 
-**Capstone Project** Applied Data Science (MAST30034) SEMESTER 2:
+**Capstone Project**  
+Applied Data Science (MAST30034) SEMESTER 2:
 - Phase 1 (20%): Visualization (99/100)
 - Phase 2 (20%): Statistical Analysis (98/100)
 - Phase 3 (Group Project - 50%): 
-  - Report (30%): 88/100
-  - Presentation (12%): 11.66/12
-  - Cohort Ranking (8%): 7/8
+  - Report (30%): (88/100)
+  - Presentation (12%): (11.66/12)
+  - Cohort Model Ranking (8%): (7/8)
   - Self Reflection (10%): TBA
