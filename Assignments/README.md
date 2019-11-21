@@ -47,8 +47,8 @@ Modern Applied Statistics (MAST30027) SEMESTER 2:
 Applied Data Science (MAST30034) SEMESTER 2:
 - Phase 1 (20%): Visualization (99/100)
 - Phase 2 (20%): Statistical Analysis (98/100)
-- Phase 3 (Group Project - 50%): 
+- Phase 3 (Group Project - 50% *Note this is scaled for each individual based on their contribution to group work*): 
   - Report (30%): (88/100)
   - Presentation (12%): (11.66/12)
   - Cohort Model Ranking (8%): (7/8)
-  - Self Reflection (10%): TBA
+  - Self Reflection (10%): (85/100)
