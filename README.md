@@ -29,7 +29,7 @@ Lastly, if ya liked this guide / repository, please leave a cheeky star so I kno
 
 ## The "Data Science" Major Subjects
 ### Captstone Project (akin to IT project for CompSci students):
-- Applied Data Science (MAST30034)
+- Applied Data Science (MAST30034) and achieved a 95 for the subject
 
 ### Core Computing & Information Systems (CIS) Subjects:
 - Foundations of Computing (COMP10001)
