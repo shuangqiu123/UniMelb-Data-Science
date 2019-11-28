@@ -52,3 +52,4 @@ Applied Data Science (MAST30034) SEMESTER 2:
   - Presentation (12%): (11.66/12)
   - Cohort Model Ranking (8%): (7/8)
   - Self Reflection (10%): (85/100)
+- Total Weighting: 95 
