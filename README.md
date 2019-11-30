@@ -12,18 +12,17 @@ For subject content, some of the following are provided:
 
 **The assignments here are meant to be a reference for what you can expect from the subject. If you decide to "borrow" ideas from here (and all other public sources), you will be picked up for plagiarism. You have also been extensively warned at the beginning of each semester.**
 
-If you're from COMP20003 (or any subject that uses the C language), refer to [this guide](https://github.com/akiratwang/COMP20003-Setting-Up) for setting up your Windows 10 device for SSH and WSL.
+If you're from COMP20003 (or any subject that uses the C language), I have written [this guide](https://github.com/akiratwang/COMP20003-Setting-Up) for setting up your Windows 10 device for both SSH-ing and WSL (Windows Subsystem Linux).
 
-For a (very very) neat timetable planner for university, visit Rohyl's [lookahead](https://lookahead.rohyl.io/) which has the cleanest interface ever
+For a (very very) neat timetable planner for university, visit my mate Rohyl's [lookahead](https://lookahead.rohyl.io/) which has the cleanest interface ever and has saved me numerous time for sorting out my timetable. Although next year onwards will follow a preference based system, I still highly recommend you check it out!
 
 ## About Me
 - Business Analyst at DXC Technology
 - Graduated 2019 with a major in Data Science (UniMelb)
 - Tutor for Foundations of Computing (COMP10001) 
 - Demonstrator for Algorithm & Data Structures (COMP20003)
-- Former Spatial Data Analyst at UniMelb Infrastructure Services
 - Currently interested in transitioning into teaching and Cybersecurity (Penetration Testing / Security Analysis)
-- *Potentially be back as a tutor for Applied Data Science given the times work out well. Feel free to ask me questions and what not if you're interested in the subject!*
+- *Potentially be back as a tutor for Applied Data Science and Machine Learning given the times work out well. Feel free to ask me questions and what not if you're interested in the subject!*
 
 Lastly, if ya liked this guide / repository, please leave a cheeky star so I know it's worth keeping updated and online! 
 
@@ -116,6 +115,7 @@ There's a lot more maths than you think (the major shares the same core maths as
 - First assignment is a joke if you have done maths, but the second is a **lot more** interesting.
 - Quoting my tutor: _"this subject is a money grabber because no one would take this subject if Probability was an actual pre-req"._
 - Tim Baldwin got us good for Exam Section D
+- **UPDATE: The lecturer for next year (2020) will be Kris Ehinger, the same lecturer as Algorithms & Data Structures! A few students and myself have gone around to get feedback and have discussed some possible improvements for the subject, so rest assured that the subject will be better coordinated :)**
 
 **Applied Data Science (Capstone Project):**
 - A very informative subject to make an overall great learning experience
@@ -129,7 +129,7 @@ There's a lot more maths than you think (the major shares the same core maths as
 - Probability is a big jump (if you didn't do Real Analysis or AM1/AM2) so prepare to grind
 - Have yet to find anything bad about the lecturers / lectures and content
 - Yao-Ban is the best lecturer (you'll have him for LSM)
-- ngl Heejung is still new to lecturing and is honestly lazy. Hopefully she'll take the feedback into account and improve over the years (just you wait until you see the 2019 exam lmao f)
+- **UPDATE: ngl Heejung is still new to lecturing and is honestly lazy. Hopefully she'll take the feedback into account and improve over the years (just you wait until you see the 2019 exam lmao f)**
 
 ## Final Tips
 - I highly recommend you go learn LaTeX, which can be easily done through www.overleaf.com. Not only does it make your assignments look amazing, it's a great way of making great notes and reports (which employers love)
