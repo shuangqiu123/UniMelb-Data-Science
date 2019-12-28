@@ -10,7 +10,7 @@ For subject content, some of the following are provided:
 - LaTeX notes for third year subjects
 - My old tutoring material 
 
-**The assignments here are meant to be a reference for what you can expect from the subject. If you decide to "borrow" ideas from here (and all other public sources), you will be picked up for plagiarism. You have also been extensively warned at the beginning of each semester.**
+**The assignments here are meant to be a reference for what you can expect from the subject. If you decide to "borrow" ideas from here (and all other public sources), you will be picked up for plagiarism. Aside from being against the University's policies on academic honesty, it's also outright copyright infringement since the GPL mandates that a full copy of the license and copyright information be included in copies of the work.**
 
 If you're from COMP20003 (or any subject that uses the C language), I have written [this guide](https://github.com/akiratwang/COMP20003-Setting-Up) for setting up your Windows 10 device for both SSH-ing and WSL (Windows Subsystem Linux).
 
@@ -136,3 +136,23 @@ There's a lot more maths than you think (the major shares the same core maths as
 - DO try your best, but WAM isn't everything (I have a mediocre WAM in the 75s) and anything above a 65+ will land you a job provided you network and apply yourself well.
 - Try to do projects outside of university. A lot of job offers were as a result of several projects I completed outside of University.
 - Be active in your tutorial and labs! It helps the tutor **a lot** and will help you learn better!
+
+## License
+```
+All of the source code in this project is licensed under the GNU General Public License v3 (or later).
+
+Copyright (C) 2019 Akira Wang
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>.
+```
