@@ -2,6 +2,16 @@
 Hi, this repository is created to give a taste of what the UniMelb undegraduate Data Science major consists of.  
 The handbook for the Data Science major can be [viewed here](https://handbook.unimelb.edu.au/2019/components/b-sci-major-8).
 
+<p align="center">
+  <br>
+  <img src="https://github.com/akiratwang/UniMelb-Data-Science/blob/master/true.png" width="350" title="hover text">
+  <p align="center"> 
+    <i> Data Science = big brain excel? 
+    </i> 
+  </p>
+  <br>
+</p>
+
 For subject content, some of the following are provided:
 - Lecture Notes
 - Past Exams / MSTs (Crowd-Sourced cohort solutions are also provided for those pesky subjects without exam solutions)
