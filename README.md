@@ -32,7 +32,6 @@ For a (very very) neat timetable planner for university, visit my mate Rohyl's [
 - Tutor for Foundations of Computing (COMP10001) 
 - Demonstrator for Algorithm & Data Structures (COMP20003)
 - Currently interested in transitioning into teaching and Cybersecurity (Penetration Testing / Security Analysis)
-- *Potentially be back as a tutor for Applied Data Science and Machine Learning given the times work out well. Feel free to ask me questions and what not if you're interested in the subject!*
 
 Lastly, if ya liked this guide / repository, please leave a cheeky star so I know it's worth keeping updated and online! 
 
