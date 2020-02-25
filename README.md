@@ -131,7 +131,7 @@ There's a lot more maths than you think (the major shares the same core maths as
 - Project is very fun and enjoyable if you love applying different techniques you've learnt over the previous subjects
   - Specifically, we had to create a game playing agent to act as a Taxi driver using real world data.
 - Group project is very dependent on how good your team works together, so find peers that have a similar work ethic as you!
-- **UPDATE: Professor Rao Kotagiri will be the new lecturer!**
+- ~~**UPDATE: Professor Rao Kotagiri will be the new lecturer!**~~ There will be a new coordinater appointed within the next month or so
 
 **Maths Subjects**:
 - They're all well run (except Modern Applied Stats)
