@@ -73,7 +73,7 @@ There's a lot more maths than you think (the major shares the same core maths as
 - Music Health (MUSI20150)
 - Positive Leadership and Careers (EDUC30072)
 
-## Subject Reviews (Pooled from a variety of people)
+## Subject Reviews (Pooled from a variety of people and my opinion)
 **Foundations of Computing**:  
 - Subject is run well both semesters and is a great introduction to Python and Computer Science.
 - Not crammable. If you want to do well, you have to consistently grind and practice it (like maths).
@@ -86,13 +86,13 @@ There's a lot more maths than you think (the major shares the same core maths as
 - Learn to use `valgrind` if you don't want `Segmentation Faults`, and `gdb` to avoid debugging nightmares.
 
 **Elements of Data Processing**:  
-- This was **THE** biggest joke of a subject (in a bad way).
-- Absolutely no reply from the lecturers / tutors on the discussion forum for weeks.
-- Assignments / Labs / Tutorials had little correlation with the lecture content.
-- If you know how to use `pandas` and jupyter notebook, **try your hardest** to get this subject waived.
-- **Honestly, this is the poorest run subject in the history of subjects. If you really wanted to learn the programming and concepts, head to Research Platform Services @ ERC level 2 and enquire about workshops for Python. That's where I learnt my stuff :)**
+- *SO it was really poorly run when we took the subject, but apparently its better now so I guess it's better?*
+- Teaches concepts of ETL, data processing and data cleaning via Python (Jupyter Notebooks)
+- Good entry level material taught, and you'll find that a lot of the fun stuff (such as ML and research) need to have a good ETL pipeline setup in order for it to be efficient and working
+- *I personally think this subject is worth taking, but real world data is much worse and there's no one telling you what to do. If you went to get better at this kind of stuff, suss out kaggle datasets and perform your own data cleaning and analysis*
 
 **Database Systems**:
+- *I just want to say that this is one of the most useful subjects I have taken in undergrad. I'm using a decent chunk of SQL (Microsoft SQL Server or IPython-sql library) for my work and the material I learned from this subject has come in handy*
 - Reneta / David are the lecturers, and both are very clear and passionate about teaching.
 - Reneta is actually good once you get used to her accent trust me.
 - The theory content is very useful, and the concepts taught are very applicable in real life jobs.
@@ -107,7 +107,8 @@ There's a lot more maths than you think (the major shares the same core maths as
 - If you're rusty on C don't worry, first few lectures is revision (we recover `malloc` as well for eng comp kids8)
 - The 2018 Exam question about electrical outages landed me a Graduate offer at EssentialEnergy (ayyyy)
 - **I highly recommend this subject over Design of Algorithms if you prefer applications of algorithms over the theory!**
-- *Students who never had to experience dimefox / nutmeg gonna hate and not appreciate. JupyterLab is so good! (ask the DoA students about their experiences using dimefox and nutmeg trust me)*
+- *Students who never had to experience dimefox / nutmeg gonna hate and not appreciate. JupyterHub is so good compared to dimefox and nutmeg servers.*
+- *I want to add on by saying you guys are super lucky, JupyterHub has only recently become a more commercially used way of showing visualizations and running code on the cloud - and you people have first hand experience of it!*
 
 **Artificial Intelligence**:
 - First third of the lectures are review of basic search algorithms (ADS students will find it a breeze).
@@ -131,7 +132,7 @@ There's a lot more maths than you think (the major shares the same core maths as
 - Project is very fun and enjoyable if you love applying different techniques you've learnt over the previous subjects
   - Specifically, we had to create a game playing agent to act as a Taxi driver using real world data.
 - Group project is very dependent on how good your team works together, so find peers that have a similar work ethic as you!
-- ~~**UPDATE: Professor Rao Kotagiri will be the new lecturer!**~~ There will be a new coordinater appointed within the next month or so
+- ~~**UPDATE: Professor Rao Kotagiri will be the new lecturer!**~~ There will be a new coordinater appointed within the next month or so, check handbook for updates
 
 **Maths Subjects**:
 - They're all well run (except Modern Applied Stats)
@@ -144,7 +145,8 @@ There's a lot more maths than you think (the major shares the same core maths as
 - I highly recommend you go learn LaTeX, which can be easily done through www.overleaf.com. Not only does it make your assignments look amazing, it's a great way of making great notes and reports (which employers love)
 - DO try your best, but WAM isn't everything (I have a mediocre WAM in the 75s) and anything above a 65+ will land you a job provided you network and apply yourself well.
 - Try to do projects outside of university. A lot of job offers were as a result of several projects I completed outside of University.
-- Be active in your tutorial and labs! It helps the tutor **a lot** and will help you learn better!
+- Be active in your tutorial and labs! It helps the tutor **a lot** and will help you learn better
+- **My plea: Honestly, people who think sharepoints with excel spreadsheets are "databases" should just end themselves. Become a good Database admin - document and normalize your work, make it easier for everyone else please.**
 
 ## License
 ```
