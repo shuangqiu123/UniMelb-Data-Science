@@ -22,7 +22,7 @@ For subject content, some of the following are provided:
 
 **The assignments here are meant to be a reference for what you can expect from the subject. If you decide to "borrow" ideas from here (and all other public sources), you will be picked up for plagiarism. Aside from being against the University's policies on academic honesty, it's also outright copyright infringement since the GPL mandates that a full copy of the license and copyright information be included in copies of the work.**
 
-If you're from COMP20003 (or any subject that uses the C language), I have written [this guide](https://github.com/akiratwang/COMP20003-Setting-Up) for setting up your Windows 10 device for both SSH-ing and WSL (Windows Subsystem Linux).
+If you're from COMP20003 (or any subject that uses the C language), I have written [this guide](https://github.com/akiratwang/COMP20003-Setting-Up) for setting up your Windows 10 device for both SSH-ing and WSL (Windows Subsystem Linux). As for those interested in installing an Anaconda distribution for Jupyter Notebooks, refer to [this old guide from 2017](https://github.com/akiratwang/Sept2017_PandasWorkshop/blob/master/Python_installation.md)
 
 For a (very very) neat timetable planner for university, visit my mate Rohyl's [lookahead](https://lookahead.rohyl.io/) which has the cleanest interface ever and has saved me numerous time for sorting out my timetable. Although next year onwards will follow a preference based system, I still highly recommend you check it out!
 
