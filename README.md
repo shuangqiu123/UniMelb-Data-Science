@@ -132,14 +132,13 @@ There's a lot more maths than you think (the major shares the same core maths as
 - Project is very fun and enjoyable if you love applying different techniques you've learnt over the previous subjects
   - Specifically, we had to create a game playing agent to act as a Taxi driver using real world data.
 - Group project is very dependent on how good your team works together, so find peers that have a similar work ethic as you!
-- ~~**UPDATE: Professor Rao Kotagiri will be the new lecturer!**~~ There will be a new coordinater appointed within the next month or so, check handbook for updates
+- **Edit: Michael Kirley will be the new lecturer!!!**
 
 **Maths Subjects**:
 - They're all well run (except Modern Applied Stats)
 - Probability is a big jump (if you didn't do Real Analysis or AM1/AM2) so prepare to grind
 - Have yet to find anything bad about the lecturers / lectures and content
 - Yao-Ban is the best lecturer (you'll have him for LSM)
-- **UPDATE: ngl Heejung is still new to lecturing and is honestly lazy. Hopefully she'll take the feedback into account and improve over the years (just you wait until you see the 2019 exam lmao f)**
 
 ## Final Tips
 - I highly recommend you go learn LaTeX, which can be easily done through www.overleaf.com. Not only does it make your assignments look amazing, it's a great way of making great notes and reports (which employers love)
