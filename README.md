@@ -148,6 +148,34 @@ There's a lot more maths than you think (the major shares the same core maths as
 - Be active in your tutorial and labs! It helps the tutor **a lot** and will help you learn better
 - **My plea: Honestly, people who think sharepoints with excel spreadsheets are "databases" should just end themselves. Become a good Database admin - document and normalize your work, make it easier for everyone else please.**
 
+## So why Data Science?
+It's actually just statistics rebranded with computer science. You're essentially combining the brains of a statistician with the brawn of computing power. If you love working with data (ethical or non-ethical) or a keen to analyze things, Data Science is definitely a great field to go into.
+
+#### Work and Job Pathway as a Graduate
+*This is purely taken from my own personal experience*  
+You can be accepted for a wide variety of roles inlcuding (but not limited to):  
+- Junior Data Scientist
+- Consultant
+- Technical Consultant
+- Data Analyst
+- Business Analyst
+- Data Engineer
+- Cloud Architect
+- Machine Learning Engineer/Expert 
+- Data Developer
+
+For companies, the places that I applied and was offered include:  
+- DXC ANZ
+- Essential Energy
+- Big 4 (KPMG, Deloite)
+- Department of Defence
+- Department of Industry, Science, Energy & Resources
+- Accenture ANZ
+- Coles
+- ATO
+
+There are plenty of jobs around and networking opportunities to be made - I highly suggest you join the Melbourne Data Science MeetUp group to meet like-minded people: https://duckduckgo.com/?q=meetup+data+science+melbourne&t=braveed&ia=web
+
 ## License
 ```
 All of the source code in this project is licensed under the GNU General Public License v3 (or later).
