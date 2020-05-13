@@ -12,6 +12,9 @@ The handbook for the Data Science major can be [viewed here](https://handbook.un
   <br>
 </p>
 
+#### Akira's First Law of Code
+*Let `E = errors`, `M = more`, `C = code`. Then the equation `E = MC^2` holds true for all `E > 0` as `E` must be positive definite in any code written.*
+
 For subject content, some of the following are provided:
 - Lecture Notes
 - Past Exams / MSTs (Crowd-Sourced cohort solutions are also provided for those pesky subjects without exam solutions)
