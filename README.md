@@ -138,7 +138,7 @@ There's a lot more maths than you think (the major shares the same core maths as
 - **Edit: Michael Kirley will be the new lecturer!!!**
 
 **Maths Subjects**:
-- They're all well run (except Modern Applied Stats)
+- They're all well run
 - Probability is a big jump (if you didn't do Real Analysis or AM1/AM2) so prepare to grind
 - Have yet to find anything bad about the lecturers / lectures and content
 - Yao-Ban is the best lecturer (you'll have him for LSM)
