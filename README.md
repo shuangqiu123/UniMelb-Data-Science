@@ -33,7 +33,8 @@ For a (very very) neat timetable planner for university, visit my mate Rohyl's [
 - Data Science Consultant at DXC Technology
 - Graduated 2019 with a major in Data Science (UniMelb)
 - Tutor/Demonstrator for Foundations of Computing (COMP10001) and Algorithm & Data Structures (COMP20003)
-- Experienced as a Cloud Architect, Data Engineer and as a Data Analyst. I also love developing assorted Python scripts *to automated the boring stuff* 
+- Experienced as a Cloud Architect (AWS, Azure and GCP), Data Engineer and as a Data Analyst. 
+- I also love developing assorted Python scripts *to automate the boring stuff* 
 
 Lastly, if ya liked this guide / repository, please leave a cheeky star so I know it's worth keeping updated and online! 
 
